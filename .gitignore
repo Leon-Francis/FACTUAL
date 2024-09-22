@@ -1,0 +1,9 @@
+*.pyc
+.cache
+.env
+.vscode
+datasets
+model_state
+logs
+outputs
+wandb
