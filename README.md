@@ -46,7 +46,7 @@ Process the datasets into the following format:
 
 The way of how I process the datasets is shown in `datasets/preprocess_datasets.py`
 
-## Stance Detection on Social Media with Background Knowledge
+## Stance Detection with Counterfactual Augmented Calibration
 
 ```bash
 sh scripts/run_FACTUAL.sh
