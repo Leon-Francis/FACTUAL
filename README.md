@@ -1,6 +1,6 @@
 # Introduction
 
-This repository open-sources the code and datas used in our [paper](https://arxiv.org/abs/2402.14296)「**Mitigating Biases of Large Language Models in Stance Detection with Counterfactual Augmented Calibration**」
+This repository open-sources the code and datas used in our paper「**Mitigating Biases of Large Language Models in Stance Detection with Counterfactual Augmented Calibration**」
 
 <img src="figures\framework.svg" width = "100%" />
 
@@ -64,25 +64,3 @@ Take in-target stance detection on p-stance for example
 >>> input running mode: [sweep, wandb, normal]: normal
 >>> input training cuda idx: Your Cuda index
 ```
-
-# Citation
-
-The BibTex of the citation is as follows:
-
-```bibtex
-@misc{li2024mitigatingbiaseslargelanguage,
-      title={Mitigating Biases of Large Language Models in Stance Detection with Calibration}, 
-      author={Ang Li and Jingqian Zhao and Bin Liang and Lin Gui and Hui Wang and Xi Zeng and Xingwei Liang and Kam-Fai Wong and Ruifeng Xu},
-      year={2024},
-      eprint={2402.14296},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2402.14296}, 
-}
-```
-
-# Contact
-
-angli@stu.hit.edu.cn
-
-If you find our paper or codes useful, please give us a kind star. ❤️
