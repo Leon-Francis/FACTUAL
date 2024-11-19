@@ -2,7 +2,8 @@
 .cache
 .env
 .vscode
-datasets
+datasets/*
+!datasets/preprocess_datasets.py
 model_state
 logs
 outputs
